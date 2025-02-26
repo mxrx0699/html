@@ -10,3 +10,4 @@ function exibirDados() {
     document.write('<p><strong>Telefone:</strong> '+ tel + '</p>')
     document.write('<p><strong>Email:</strong> '+ email + '</p>')
 }
+// kjfndujnmf
